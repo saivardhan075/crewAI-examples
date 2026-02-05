@@ -1,4 +1,4 @@
-# AI Crew for Stock Analysis
+## AI Crew for Stock Analysis
 ## Introduction
 This project is an example using the CrewAI framework to automate the process of analyzing a stock. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
